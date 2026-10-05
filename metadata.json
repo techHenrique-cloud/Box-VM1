@@ -1,0 +1,9 @@
+{
+  "name": "LabVM Browser",
+  "description": "Navegador avançado com WebView, suporte completo a WebRTC, link rápido para ARM LabVM, gerenciamento de múltiplos favoritos, histórico de navegação e configurações avançadas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LabVM Browser</string>
+    <string name="url_hint">Pesquisar ou digitar endereço (ex: http://labvm.arm.com/lab)</string>
+    <string name="nav_browser">Navegador</string>
+    <string name="nav_bookmarks">Favoritos</string>
+    <string name="nav_history">Histórico</string>
+    <string name="nav_webrtc">WebRTC Lab</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="arm_labvm_title">ARM LabVM Oficial</string>
+    <string name="arm_labvm_subtitle">http://labvm.arm.com/lab • Ambiente Virtual &amp; WebRTC</string>
+    <string name="open_arm_labvm">Abrir ARM LabVM Agora</string>
+    <string name="add_bookmark">Adicionar aos Favoritos</string>
+    <string name="edit_bookmark">Editar Favorito</string>
+    <string name="delete_bookmark">Remover Favorito</string>
+    <string name="clear_history">Limpar Histórico</string>
+    <string name="clear_cache">Limpar Cache e Cookies</string>
+    <string name="webrtc_diagnostics_title">Diagnóstico WebRTC &amp; Permissões</string>
+    <string name="settings_title">Configurações do Navegador</string>
+</resources>
